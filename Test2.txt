@@ -1,0 +1,109 @@
+Input - 
+
+1
+A 1
+B 400
+
+1
+B 2
+C 30
+D 600
+
+1
+D 1
+C 700
+
+1
+C 1
+A 500
+
+2
+4 2
+4 2
+5
+
+Output - 
+1: Add Transaction
+2: Check Expense
+3: Make Payment
+4: Relax payments
+5. Exit
+Choose one : 
+Payer Name : Number of contributers : Contributer Name : 1: Add Transaction
+2: Check Expense
+3: Make Payment
+4: Relax payments
+5. Exit
+Choose one : 
+Payer Name : Number of contributers : Contributer Name : Contributer Name : 1: Add Transaction
+2: Check Expense
+3: Make Payment
+4: Relax payments
+5. Exit
+Choose one : 
+Payer Name : Number of contributers : Contributer Name : 1: Add Transaction
+2: Check Expense
+3: Make Payment
+4: Relax payments
+5. Exit
+Choose one : 
+Payer Name : Number of contributers : Contributer Name : 1: Add Transaction
+2: Check Expense
+3: Make Payment
+4: Relax payments
+5. Exit
+Choose one : 
+Transctions : 
+A needs to pay C Rs 500.
+B needs to pay A Rs 400.
+C needs to pay B Rs 30.
+C needs to pay D Rs 700.
+D needs to pay B Rs 600.
+1: Add Transaction
+2: Check Expense
+3: Make Payment
+4: Relax payments
+5. Exit
+Choose one : 
+Cycle : 1 3 2 1 
+1 3 500
+3 2 30
+2 1 400
+1: Add Transaction
+2: Check Expense
+3: Make Payment
+4: Relax payments
+5. Exit
+Choose one : 
+Transctions : 
+A needs to pay C Rs 470.
+B needs to pay A Rs 370.
+C needs to pay D Rs 700.
+D needs to pay B Rs 600.
+1: Add Transaction
+2: Check Expense
+3: Make Payment
+4: Relax payments
+5. Exit
+Choose one : 
+Cycle : 1 3 4 2 1 
+1 3 470
+3 4 700
+4 2 600
+2 1 370
+1: Add Transaction
+2: Check Expense
+3: Make Payment
+4: Relax payments
+5. Exit
+Choose one : 
+Transctions : 
+A needs to pay C Rs 100.
+C needs to pay D Rs 330.
+D needs to pay B Rs 230.
+1: Add Transaction
+2: Check Expense
+3: Make Payment
+4: Relax payments
+5. Exit
+Choose one : 

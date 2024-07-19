@@ -1,0 +1,90 @@
+Input -
+1
+
+Arvind 1
+Abhay 20
+2
+1
+Shivank 1
+Arvind 30
+2
+1
+Abhay 1
+Shivank 40
+2
+4
+2
+5
+
+Output -
+
+1: Add Transaction
+2: Check Expense
+3: Make Payment
+4: Relax payments
+5. Exit
+Choose one : 
+Payer Name : Number of contributers : Contributer Name : 1: Add Transaction
+2: Check Expense
+3: Make Payment
+4: Relax payments
+5. Exit
+Choose one : 
+Transctions : 
+Abhay needs to pay Arvind Rs 20.
+1: Add Transaction
+2: Check Expense
+3: Make Payment
+4: Relax payments
+5. Exit
+Choose one : 
+Payer Name : Number of contributers : Contributer Name : 1: Add Transaction
+2: Check Expense
+3: Make Payment
+4: Relax payments
+5. Exit
+Choose one : 
+Transctions : 
+Arvind needs to pay Shivank Rs 30.
+Abhay needs to pay Arvind Rs 20.
+1: Add Transaction
+2: Check Expense
+3: Make Payment
+4: Relax payments
+5. Exit
+Choose one : 
+Payer Name : Number of contributers : Contributer Name : 1: Add Transaction
+2: Check Expense
+3: Make Payment
+4: Relax payments
+5. Exit
+Choose one : 
+Transctions : 
+Arvind needs to pay Shivank Rs 30.
+Abhay needs to pay Arvind Rs 20.
+Shivank needs to pay Abhay Rs 40.
+1: Add Transaction
+2: Check Expense
+3: Make Payment
+4: Relax payments
+5. Exit
+Choose one : 
+Cycle : 1 3 2 1 
+1 3 30 -30
+3 2 40 -40
+2 1 20 -20
+1: Add Transaction
+2: Check Expense
+3: Make Payment
+4: Relax payments
+5. Exit
+Choose one : 
+Transctions : 
+Arvind needs to pay Shivank Rs 10.
+Shivank needs to pay Abhay Rs 20.
+1: Add Transaction
+2: Check Expense
+3: Make Payment
+4: Relax payments
+5. Exit
+Choose one : 
