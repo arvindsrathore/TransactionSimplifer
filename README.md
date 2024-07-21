@@ -8,8 +8,6 @@ Transaction Simplifier is a C++ project designed to reduce the complexity of kee
 - **Check Expense**: View the current outstanding balances between all parties.
 - **Make Payment**: Record a payment from one party to another to settle debts.
 - **Relax Payments**: Simplify the outstanding payments by detecting and resolving cycles of debt.
-- **Save Transactions**: Save the current state of transactions to a file for future use.
-- **Load Transactions**: Load the saved transactions from a file to resume tracking.
 
 ## Getting Started
 
